@@ -16,3 +16,7 @@ Slack /email
 Trivy maintains an extensive vulnerability database, which it uses to compare the installed packages and libraries in a 
 container image against known vulnerabilities. It supports various vulnerability databases, including CVE 
 (Common Vulnerabilities and Exposures), Red Hat Security Data, and Ubuntu Security Notices.
+
+
+
+https://medium.com/@maheshwar.ramkrushna/scanning-docker-images-for-vulnerabilities-using-trivy-for-effective-security-analysis-fa3e2844db22
