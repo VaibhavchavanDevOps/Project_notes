@@ -45,3 +45,29 @@ https://medium.com/@achatterjee.82/how-to-install-hashicorp-vault-on-ubuntu-a287
 
 #
 https://medium.com/@seifeddinerajhi/enhanced-security-alert-trivy-now-scans-kubernetes-clusters-6c149e256120
+
+#
+https://itsfoss.com/apt-key-deprecated/
+
+#
+docker login -u vaibhav2002cognizant
+
+
+To use the access token from your Docker CLI client:
+
+# 1. Run
+
+docker login -u vaibhav2002cognizant
+
+# 2. At the password prompt, enter the personal access token.
+
+dckr_pat_o03dnruxk6fDZdOsiDmjNL6VsiA
+
+
+#
+
+Webhook URL
+https://hooks.slack.com/services/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
+
+#
+https://medium.com/@achatterjee.82/how-to-install-hashicorp-vault-on-ubuntu-a28740a7e88b
